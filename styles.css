@@ -1,0 +1,49 @@
+.nav-link:hover{ 
+    color: #5cd9cf!important; 
+    border-top: solid 5px #20b386;
+}
+
+.cardBg1{
+    color: #fff !important;
+  background-color: #07aca0!important;
+}
+
+.cardBg2{
+    color: #fff !important;
+  background-color: #17bcb0 !important;
+}
+
+.cardBg3{
+    color: #fff !important;
+  background-color: #27ccc0 !important;
+}
+
+.card-footer:hover{
+  background-color: #197972!important;
+}
+
+.cardBg5{
+  background-color: #dadada;
+}
+
+.price{
+  font-size: 80px;
+}
+
+.paragraghFontSize{
+  font-size: 14px;
+}
+
+.imageGray{
+  filter: grayscale(100%);
+  opacity: 25%;
+}
+
+.imageOreginaLColor:hover{
+  filter: grayscale(0%);
+  opacity: 100%;
+}
+
+.iconColor{
+  color: #07aca0;
+}
